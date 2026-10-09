@@ -73,11 +73,27 @@
   volume_issue_pages: ""
   doi_or_url: ""
 
-- section: "In preparation"
+- section: "Under review"
   year: 2026
   authors: "Nie, C., Graham, H., Yu, Y. S., McMahon, K., & Graham, D."
   title: "Feasibility and acceptability of completing office tasks on a treadmill desk: A qualitative study"
   journal: "Preventive Medicine"
+  volume_issue_pages: ""
+  doi_or_url: ""
+
+- section: "In preparation"
+  year: 2026
+  authors: "Yu, Y. S., & Graham, D. J."
+  title: "Patterns of treadmill-desk use in everyday office work: A one-year mixed-methods daily diary pilot study"
+  journal: "American Journal of Health Promotion"
+  volume_issue_pages: ""
+  doi_or_url: ""
+
+- section: "In preparation"
+  year: 2026
+  authors: "Fletcher, K. A., Yu, Y. S., Graham, D., Sechi, G., Kom, A., & Drose, C."
+  title: "The effects of virtual and in-person meetings on daily and average physical activity"
+  journal: "International Journal of Workplace Health Management"
   volume_issue_pages: ""
   doi_or_url: ""
 
